@@ -1,5 +1,5 @@
 # LLM_WiFi
-Solving WiFi challenges using LLM
+Solving WiFi challenges using LLMs
 
 This tool analyzes packet captures and provides useful insights to a network admin/support engineer to effectively debug and locate issues in a network It is solved using 2 methods, openAI LLM and agentic system using crewAI
 
